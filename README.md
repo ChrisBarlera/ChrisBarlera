@@ -1,7 +1,7 @@
-### Hi there 👋
+### ChrisBarlera
 
-<!--
-**ChrisBarlera/ChrisBarlera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Olá! Meu nome é **Christian Barlera** e eu busco meu **primeiro emprego como desenvolvedor**.
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 Contato: christian.barlera2@gmail.com 
 - ⚡ Fun fact: ...
--->
+
