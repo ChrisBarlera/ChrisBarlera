@@ -13,6 +13,7 @@ Atualmente trabalho como Suporte de TI no Grupo Vila do Farol.
 - 🌱 Aprendendo front-end
 - 👯 Visando trabalhar em um ambiente de produção profissional
 - 🤔 Precisando de ajuda com frameworks javascript
+- 😏 Interessado em desenvolvimento de jogos (e jogos em geral)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbarlera&layout=compact&langs_count=7&theme=nord"/>
