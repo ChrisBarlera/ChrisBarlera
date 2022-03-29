@@ -3,11 +3,9 @@
 
 Olá! Meu nome é **Christian Barlera** e eu busco meu **primeiro emprego como desenvolvedor**.
 
-Sou técnico em informática pelo Instituto Federal Catarinense Campus Camboriú o que me rendeu conhecimento básico em programação.<br>
-Meu projeto de conclusão de curso foi o <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a><br>
-Tenho vontade de fazer faculdade no curso de Ciências da Computação ou Sistemas da Informação.
-
-Atualmente trabalho como Suporte de TI no Grupo Vila do Farol.
+Atualmente curso Sistemas de Informação no Instituto Federal Catarinense Campus Camboriú, estou no início e amando a experiência. <br>
+Tenho certificado de Técnico em Informática também pelo IFC Camboriú. <br>
+Meu projeto de conclusão de curso (técnico) foi o <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a><br>
 
 - 🔭 Criando alguns projetos em python
 - 🌱 Aprendendo front-end
