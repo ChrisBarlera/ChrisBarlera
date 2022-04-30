@@ -7,11 +7,11 @@ Atualmente curso Sistemas de Informação no Instituto Federal Catarinense Campu
 Tenho certificado de Técnico em Informática também pelo IFC Camboriú. <br>
 Meu projeto de conclusão de curso (técnico) foi o <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a><br>
 
-- 🔭 Criando alguns projetos em python
+<!-- - 🔭 Criando alguns projetos em python
 - 🌱 Aprendendo front-end
 - 👯 Visando trabalhar em um ambiente de produção profissional
 - 🤔 Precisando de ajuda com frameworks javascript
-- 😏 Interessado em desenvolvimento de jogos (e jogos em geral)
+- 😏 Interessado em desenvolvimento de jogos (e jogos em geral) -->
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbarlera&layout=compact&langs_count=7&theme=nord"/>
