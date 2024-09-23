@@ -4,28 +4,24 @@
 Olá! Meu nome é **Christian Barlera** e eu busco meu **primeiro emprego como desenvolvedor**.
 
 Atualmente cursando Bacharelado em Matemática na Universidade Federal de Santa Catarina (UFSC) com algumas disciplinas de Ciência da Computação e amando a experiência. <br>
-Já iniciei também um Bacharelado em Sistemas de Informação no Instituto Federal Catarinense (IFC) - Campus Camboriú porém está incompleto. <br>
+Já iniciei também um curso Bacharelado em Sistemas de Informação no Instituto Federal Catarinense (IFC) - Campus Camboriú porém optei por sair. <br>
 Tenho certificado de Técnico em Informática também pelo IFC - Camboriú. <br>
 Meu projeto de conclusão de curso (técnico) foi o <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a> <br>
 
 - 🔭 Criando alguns projetos em python
-- 🌱 Aprendendo front-end
 - 👯 Visando trabalhar em um ambiente de produção profissional
-- 🤔 Precisando de ajuda com frameworks javascript
 - 😏 Interessado em desenvolvimento de jogos (e *gaming* em geral)
 
 ## About me
 Hello! My name is **Christian Barlera** and I'm looking for my **first job as a developer**.
 
 Currently Majoring B.Sc. in Mathematics at *Universidade Federal de Santa Catarina (UFSC)* with Minor in Computer Science and loving the experience. <br>
-I also started a Bachelor's Degree in Information Systems at *Instituto Federal Catarinense (IFC) - Campus Camboriú* however it is incomplete.
+I have also started a Bachelor's Degree in Information Systems at the *Instituto Federal Catarinense (IFC) - Camboriú Campus*, but I chose to leave. <br>
 I have a certificate of Computer Technician also from *IFC Camboriú*. <br>
 My technical course completion project was the <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a><br>
 
 - 🔭 Creating some Python projects
-- 🌱 Learning front-end
 - 👯 Aiming to work in a professional production environment
-- 🤔 Needing help with JavaScript frameworks
 - 😏 Interest in game development (and gaming in general)
 
 ## Estatísticas/Stats
