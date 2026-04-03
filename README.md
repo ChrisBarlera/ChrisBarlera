@@ -1,45 +1,128 @@
-## ChrisBarlera
+# 👋 Hi, I'm Christian Barlera
 
-## Sobre mim
-Olá! Meu nome é **Christian Barlera** e eu busco minha **primeira oportunidade como desenvolvedor de software**.
+🎯 **Aspiring Data Scientist | Math Student | Software Enthusiast**
+---
 
-Atualmente cursando Bacharelado em Matemática na Universidade Federal de Santa Catarina (UFSC) com algumas disciplinas de Ciência da Computação e amando a experiência. <br>
-Tenho certificado de Técnico em Informática também pelo IFC - Camboriú. <br>
-Já iniciei também um curso Bacharelado em Sistemas de Informação no Instituto Federal Catarinense (IFC) - Campus Camboriú porém optei por sair. <br>
-Meu projeto de conclusão de curso (técnico) foi o <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a> <br>
+## 🇧🇷 Sobre mim
 
-- 📚 Estudando matemática
-- 🔭 Criando alguns projetos em python
-- 👨‍💻 Visando trabalhar em um ambiente de produção profissional
-- 🎮 Interessado em desenvolvimento de jogos (e *gaming* em geral)
+Olá! Sou o **Christian Barlera**, estudante de **Matemática na UFSC** com interesse em **dados, programação e resolução de problemas**.
 
-## About me
-Hello! My name is **Christian Barlera** and I'm looking for my **first opportunity as a software developer**.
+🎓 Bacharelado em Matemática — UFSC
+💻 Técnico em Informática — IFC Camboriú
 
-Currently Majoring B.Sc. in Mathematics at *Universidade Federal de Santa Catarina (UFSC)* with Minor in Computer Science and loving the experience. <br>
-I have a certificate of Computer Technician also from *IFC Camboriú*. <br>
-I have also started a Bachelor's Degree in Information Systems at the *Instituto Federal Catarinense (IFC) - Camboriú Campus*, but I chose to leave. <br>
-My (technical) course completion project was the <a href="https://github.com/ChrisBarlera/Cube3">Cube³</a><br>
+Atualmente focado em:
 
-- 📚 Studying math
-- 🔭 Creating some Python projects
-- 👨‍💻 Aiming to work in a professional production environment
-- 🎮 Interest in game development (and gaming in general)
+* 📊 Análise de Dados e Ciência de Dados
+* 🧠 Resolução de problemas com matemática aplicada
+* 👨‍💻 Desenvolvimento de Software
 
-## Estatísticas/Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrisbarlera&show_icons=true&theme=nord" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisbarlera&layout=compact&langs_count=8&card_width=320&theme=nord" />
-</a>
+---
 
-## Contatos/Contacts
-<div>
-  <a href="mailto:christian.barlera2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank" style="height:30px;">
-  </a>
-  <a href="https://www.linkedin.com/in/chrisbarlera/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank" style="height:30px;">
-  </a>
-</div>
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Python, Julia, SQL
+* **Ferramentas:** Git, Jupyter Notebook
+* **Interesses:** Data Science, Otimização, Modelagem Matemática
+
+---
+
+### 🚀 Projetos em destaque
+
+#### 🔗 Cube³
+
+Aplicativo Android em Java para auxiliar na resolução do cubo mágico 2x2x2
+👉 https://github.com/ChrisBarlera/Cube3
+
+---
+
+#### 🔗 Trabalho Final de Programação Linear
+
+Notebook em Julia com modelagem e solução de um problema de otimização aplicado à produção e estoque de lasanhas
+👉 https://github.com/ChrisBarlera/trabalho-final-programacao-linear
+
+---
+
+#### 🔗 qBittorrent Search Plugin
+
+Plugin que realiza parsing de HTML para busca automatizada no qBittorrent
+👉 https://github.com/ChrisBarlera/Blueroms-qBittorrent-Search-Plugin
+
+---
+
+### 🎮 Interesses pessoais
+
+* Gaming
+* Magic: The Gathering 🧙🏻‍♂️
+
+---
+
+### 📫 Contato
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/chrisbarlera/)
+* 📧 [E-mail](mailto:christian.barlera2@gmail.com)
+
+---
+
+  
+---
+
+## 🇺🇸 About Me
+
+Hi! I'm **Christian Barlera**, a **Mathematics student at UFSC** with an interest in **data, programming, and problem-solving**.
+
+🎓 Bachelor's Degree in Mathematics — UFSC
+💻 IT Technician — IFC Camboriú
+
+Currently focused on:
+
+* 📊 Data Analysis and Data Science
+* 🧠 Problem-solving with applied mathematics
+* 👨‍💻 Software Development
+
+---
+
+### 🛠️ Technologies and Tools
+
+* **Languages:** Python, Julia, SQL
+* **Tools:** Git, Jupyter Notebook
+* **Interests:** Data Science, Optimization, Mathematical Modeling
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔗 Cube³
+
+Android application in Java to assist with solving the 2x2x2 Rubik’s Cube
+👉 https://github.com/ChrisBarlera/Cube3
+
+---
+
+#### 🔗 Linear Programming Final Project
+
+Julia notebook with modeling and solution of an optimization problem applied to lasagna production and inventory
+👉 https://github.com/ChrisBarlera/trabalho-final-programacao-linear
+
+---
+
+#### 🔗 qBittorrent Search Plugin
+
+Plugin that performs HTML parsing for automated search in qBittorrent
+👉 https://github.com/ChrisBarlera/Blueroms-qBittorrent-Search-Plugin
+
+---
+
+### 🎮 Personal Interests
+
+* Gaming
+* Magic: The Gathering 🧙🏻‍♂️
+
+---
+
+### 📫 Contact
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/chrisbarlera/)
+* 📧 [Email](mailto:christian.barlera2@gmail.com)
+
+
+---
